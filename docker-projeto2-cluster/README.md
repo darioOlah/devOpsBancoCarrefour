@@ -21,13 +21,13 @@ Abra o PowerShell no diretório que deseja armazenar as atividades;
 
 Clone o repositório: git clone https://github.com/darioOlah/devOpsBancoCarrefour.git
 
-Entre no diretório: cd /devOpsBancoCarrefour/docker-projeto2-cluster/
+Entre no diretório: cd devOpsBancoCarrefour/docker-projeto2-cluster/
 
 Execute o Vagrantfile para criar e configurar o node manager e os nodes workers: vagrant up
 
 Após criar e executar todas as 4 MVs, acesse a MV master: vagrant ssh master
 
-Entre no diretório: cd /vagrant/
+Entre no diretório: cd vagrant/
 
 Execute o arquivo para iniciar o serviço no manager: ./service-manager.sh 
 
