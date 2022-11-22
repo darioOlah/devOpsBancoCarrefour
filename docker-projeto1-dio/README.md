@@ -1,13 +1,38 @@
-Descrição Neste projeto o expert utilizou o Docker Compose para executar uma aplicação HTML em um Container Apache. Você poderá ir além e fazer alterações mais robustas ao seu projeto, estilizando sua página e utilizando seus conhecimentos em (HTML, CSS e JS). Você também pode buscar outras formas para executar seu arquivo HTML em outras Linguagens de Programação.
+Descrição:
+
+
+Neste projeto utilizo o Docker Compose para executar uma aplicação* HTML em um Container Apache. 
+
+*Foi feito clone do repositório (https://github.com/darioOlah/netflixDio.git) da Netflix Clone criada por mim em um outro momento.
+
+
 
 PASSO A PASSO:
 
 1 - Criar um arquivo YML com as definições de um servidor Apache (httpd); 
-2 - Especificar no arquivo YML o local onde os arquivos da aplicação estarão. A aplicação pode ser um simples Hello World. Será que você consegue executar uma aplicação web completa? 
+
+2 - Fazer o git clone do repositório que deseja exibir no servidor Apache;
+
+2 - Especificar no arquivo YML o local onde os arquivos da aplicação estarão;
+
 3 - Subir o arquivo YML e a aplicação para um repositório no GitHub.
+
 
 Pré-requisitos:
 
-Conhecimento Básico em Docker(Docker Compose); Conhecimento Básico em Apache; Conhecimento Básico em HTML; Computador com SO de sua preferência(Windows, Linux, Mac OS);
 
-Neste projeto eu clono um repositório da Netflix Clone e utilizo os comando e conceitos aprendidos para exibir o conteúdo da pagina no Servidor Apache à partir de um browser.
+Conhecimento Básico em Linux;
+
+Conhecimento Básico em Apache; 
+
+Conhecimento Básico em GitHub;
+
+Conhecimento Básico em HTML e CSS; 
+
+Conhecimento Básico em Docker(Docker Compose); 
+
+Conhecimento Básico em Visual Studio Code;
+
+Oracle VM VirtualBox ou similar instalado;
+
+Computador com SO de sua preferência (Windows, Linux, Mac OS).
